@@ -6,7 +6,7 @@ while
         break
     except ValueError:
         print("21000.")
-while True: #
+while: #
     try:
         amount = float(input("How much $ do you have?"))
         break
